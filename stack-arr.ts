@@ -1,3 +1,4 @@
+// Array implementation
 class Stack {
   private arr: (number | string)[] = [];
   private top: any = -1;
